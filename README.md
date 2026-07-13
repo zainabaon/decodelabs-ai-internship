@@ -15,7 +15,7 @@ Pybot (aka **Nova**) is a **rule-based chatbot** — it does not use machine lea
 - Exits cleanly on commands like `bye` or `exit`
 - **Stretch goals implemented:**
   - Gives the bot a personality/name ("Nova")
-  - Detects when a user introduces themselves (e.g. "my name is Aisha", "I am Sam", "I'm Alex") and greets them by name
+  - Detects when a user introduces themselves (e.g. "my name is Zainab", "I am Theo", "I'm William") and greets them by name
   - Logs the full conversation history with timestamps to `conversation_history.txt`
 
 ## How to Run
@@ -32,8 +32,8 @@ Then type your messages at the `You:` prompt. Type `bye` or `exit` to quit.
 Nova: Hello! Type 'help' for options or 'bye' to exit.
 You: hi
 Nova: Hi there! How can I help?
-You: my name is Aisha
-Nova: Nice to meet you, Aisha!
+You: my name is Zainab
+Nova: Nice to meet you, Zainab!
 You: bye
 Nova: Goodbye! Thanks for chatting with me.
 ```
